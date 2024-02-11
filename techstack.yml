@@ -1,0 +1,1186 @@
+repo_name: kclhi/cwlviewer
+report_id: 9bfce28c9388e0ef7bcb2852fa74283b
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-11T18:36:28+00:00'
+requested_by: dependabot[bot]
+provider: github
+branch: master
+detected_tools_count: 86
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/kclhi/cwlviewer
+  detection_source: Repo Metadata
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/kclhi/cwlviewer
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/kclhi/cwlviewer
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/kclhi/cwlviewer
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/static/bower_components/bootstrap/Gemfile
+  detection_source: src/main/resources/static/bower_components/bootstrap/Gemfile
+  last_updated_by: Mark Robinson
+  last_updated_on: 2016-11-25 22:11:34.000000000 Z
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/db/changelog/migrations/00001_schema_ddl.sql
+  detection_source: src/main/resources/db/changelog/migrations/00001_schema_ddl.sql
+  last_updated_by: Bruno P. Kinoshita
+  last_updated_on: 2022-02-22 10:46:38.000000000 Z
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/static/bower_components/bootstrap/package.json
+  detection_source: src/main/resources/static/bower_components/bootstrap/package.json
+  last_updated_by: Mark Robinson
+  last_updated_on: 2016-11-25 22:11:34.000000000 Z
+- name: Spring Framework
+  description: An application framework and inversion of control container for the
+    Java platform
+  website_url: https://spring.io/projects/spring-framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/2006/spring-framework-project-logo.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Bruno P. Kinoshita
+  last_updated_on: 2022-08-15 22:54:29.000000000 Z
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  version: 1.9.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/static/bower_components/bootstrap/bower.json
+  detection_source: src/main/resources/static/bower_components/bootstrap/bower.json
+  last_updated_by: Mark Robinson
+  last_updated_on: 2016-11-25 22:11:34.000000000 Z
+- name: Liquibase
+  description: Easily track, version &amp; deploy database changes
+  website_url: https://www.liquibase.com
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/1398/y1As8_s5_400x400.jpg
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Bruno P. Kinoshita
+  last_updated_on: 2022-02-22 10:46:38.000000000 Z
+- name: PostgreSQL
+  description: A powerful, open source object-relational database system
+  website_url: http://www.postgresql.org/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/docker-compose.yml
+  detection_source: docker-compose.yml
+  last_updated_by: Iacopo Colonnelli
+  last_updated_on: 2023-01-17 10:57:18.000000000 Z
+- name: Spring Data
+  description: Provides a consistent approach to data access – relational, non-relational,
+    map-reduce, and beyond
+  website_url: https://spring.io/projects/spring-data
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/7624/IG6D4Ro2_400x400.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Bruno P. Kinoshita
+  last_updated_on: 2022-08-15 22:54:29.000000000 Z
+- name: Apache Maven
+  description: Apache build manager for Java projects.
+  website_url: http://maven.apache.org/
+  version: 3.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/package_manager/977/default_9833f2ef0bbc2a946b4cc5e9307264033361076b.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/Dockerfile
+  detection_source: Dockerfile
+  last_updated_by: GlassOfWhiskey
+  last_updated_on: 2023-01-01 17:51:47.000000000 Z
+- name: Browserify
+  description: Browser-side require() the node.js way
+  website_url: http://browserify.org/
+  version: 8.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/849/9esmqty2.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/static/bower_components/svg-pan-zoom/package.json
+  detection_source: src/main/resources/static/bower_components/svg-pan-zoom/package.json
+  last_updated_by: Mark Robinson
+  last_updated_on: 2017-02-01 23:31:06.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/kclhi/cwlviewer
+  detection_source: Repo Metadata
+- name: Docker Compose
+  description: Define and run multi-container applications with Docker
+  website_url: https://github.com/docker/compose
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Container Tools
+  image_url: https://img.stackshare.io/service/3136/docker-compose.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/docker-compose.yml
+  detection_source: docker-compose.yml
+  last_updated_by: Stian Soiland-Reyes
+  last_updated_on: 2017-07-13 14:46:15.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/kclhi/cwlviewer
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/.github/workflows/ci-build.yml
+  detection_source: ".github/workflows/ci-build.yml"
+  last_updated_by: Anushka Shukla
+  last_updated_on: 2021-04-15 10:03:10.000000000 Z
+- name: Grunt
+  description: The JavaScript Task Runner
+  website_url: http://gruntjs.com/
+  version: 1.0.1
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/845/falgg2jybmhgk16y62lr.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/static/bower_components/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: src/main/resources/static/bower_components/bootstrap/package.json
+  last_updated_by: Mark Robinson
+  last_updated_on: 2016-11-25 22:11:34.000000000 Z
+- name: JSHint
+  description: A Static Code Analysis Tool for JavaScript
+  website_url: http://www.jshint.com/about/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/1945/mzh2bRes_400x400.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/static/bower_components/svg-pan-zoom/package.json
+  detection_source: src/main/resources/static/bower_components/svg-pan-zoom/package.json
+  last_updated_by: Mark Robinson
+  last_updated_on: 2017-02-01 23:31:06.000000000 Z
+- name: Logback
+  description: A logging framework for Java applications
+  website_url: https://logback.qos.ch/
+  open_source: false
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Log Management
+  image_url: https://img.stackshare.io/service/2923/05518ecaa42841e834421e9d6987b04f_400x400.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/logback.xml
+  detection_source: src/main/resources/logback.xml
+  last_updated_by: Bruno P. Kinoshita
+  last_updated_on: 2022-01-12 10:35:32.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/static/bower_components/bootstrap/package.json
+  detection_source: src/main/resources/static/bower_components/bootstrap/package.json
+  last_updated_by: Mark Robinson
+  last_updated_on: 2016-11-25 22:11:34.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/docs/mongo-to-postgres/requirements.txt
+  detection_source: docs/mongo-to-postgres/requirements.txt
+  last_updated_by: Bruno P. Kinoshita
+  last_updated_on: 2022-03-30 08:19:44.000000000 Z
+- name: QUnit
+  description: A JavaScript Unit Testing framework
+  website_url: http://qunitjs.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1421/b706f022230831a3d391db504a139e21.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/static/bower_components/svg-pan-zoom/package.json
+  detection_source: src/main/resources/static/bower_components/svg-pan-zoom/package.json
+  last_updated_by: Mark Robinson
+  last_updated_on: 2017-02-01 23:31:06.000000000 Z
+- name: RubyGems
+  description: Easily download, install, and use ruby software packages on your system
+  website_url: https://rubygems.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/static/bower_components/bootstrap/Gemfile
+  detection_source: src/main/resources/static/bower_components/bootstrap/Gemfile
+  last_updated_by: Mark Robinson
+  last_updated_on: 2016-11-25 22:11:34.000000000 Z
+- name: gulp
+  description: The streaming build system
+  website_url: http://gulpjs.com/
+  version: 3.8.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/844/iruTC031.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/static/bower_components/svg-pan-zoom/package.json
+  detection_source: src/main/resources/static/bower_components/svg-pan-zoom/package.json
+  last_updated_by: Mark Robinson
+  last_updated_on: 2017-02-01 23:31:06.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/static/bower_components/svg-pan-zoom/package.json
+  detection_source: src/main/resources/static/bower_components/svg-pan-zoom/package.json
+  last_updated_by: Mark Robinson
+  last_updated_on: 2017-02-01 23:31:06.000000000 Z
+- name: Apache Camel
+  description: A versatile open source integration framework
+  website_url: https://camel.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Platform as a Service
+  image_url: https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/application.properties
+  detection_source: src/main/resources/application.properties
+  last_updated_by: Mark Robinson
+  last_updated_on: 2017-02-18 14:47:52.000000000 Z
+- name: Alpine Linux
+  description: Security-oriented, lightweight Linux distribution based on musl libc
+    and busybox
+  website_url: https://www.alpinelinux.org/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/6429/alpine_linux.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/docker-compose.yml
+  detection_source: docker-compose.yml
+  last_updated_by: Bruno P. Kinoshita
+  last_updated_on: 2022-02-16 06:28:11.000000000 Z
+- name: Jekyll
+  description: Blog-aware, static site generator in Ruby
+  website_url: http://jekyllrb.com/
+  version: 3.9.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Static Site Generators
+  image_url: https://img.stackshare.io/service/1114/ad968c1615d956e800fa36494314f48c.jpeg
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/static/bower_components/bootstrap/Gemfile.lock
+  detection_source: src/main/resources/static/bower_components/bootstrap/Gemfile
+  last_updated_by: Snyk bot
+  last_updated_on: 2021-07-09 11:09:06.000000000 Z
+- name: NumPy
+  description: Fundamental package for scientific computing with Python
+  website_url: http://www.numpy.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Data Science Tools
+  image_url: https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/docs/mongo-to-postgres/requirements.txt
+  detection_source: docs/mongo-to-postgres/requirements.txt
+  last_updated_by: Bruno P. Kinoshita
+  last_updated_on: 2022-03-30 08:19:44.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/kclhi/cwlviewer
+  detection_source: Repo Metadata
+- name: btoa
+  description: Btoa for Node.JS
+  package_url: https://www.npmjs.com/btoa
+  version: 1.1.2
+  license: MIT,Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17351/default_b8b4be8bd54f9619446b80b2bf448c0891101f2a.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/static/bower_components/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: src/main/resources/static/bower_components/bootstrap/package.json
+  last_updated_by: Mark Robinson
+  last_updated_on: 2016-11-25 22:11:34.000000000 Z
+- name: glob
+  description: A little globber
+  package_url: https://www.npmjs.com/glob
+  version: 3.2.11
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/static/bower_components/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: src/main/resources/static/bower_components/bootstrap/package.json
+  last_updated_by: Mark Robinson
+  last_updated_on: 2016-11-25 22:11:34.000000000 Z
+- name: grunt-autoprefixer
+  description: Parse CSS and add vendor-prefixed CSS properties using the Can I Use
+    database
+  package_url: https://www.npmjs.com/grunt-autoprefixer
+  version: 3.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17148/default_9746cbb559e39df4afd8298f9a252dff8519e646.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/static/bower_components/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: src/main/resources/static/bower_components/bootstrap/package.json
+  last_updated_by: Mark Robinson
+  last_updated_on: 2016-11-25 22:11:34.000000000 Z
+- name: grunt-contrib-clean
+  description: Clean files and folders
+  package_url: https://www.npmjs.com/grunt-contrib-clean
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15939/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/static/bower_components/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: src/main/resources/static/bower_components/bootstrap/package.json
+  last_updated_by: Mark Robinson
+  last_updated_on: 2016-11-25 22:11:34.000000000 Z
+- name: grunt-contrib-compress
+  description: Compress files and folders
+  package_url: https://www.npmjs.com/grunt-contrib-compress
+  version: 1.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16797/default_661bbd7f9556b6c5c0b8be11cd13e1813fc5c977.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/static/bower_components/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: src/main/resources/static/bower_components/bootstrap/package.json
+  last_updated_by: Mark Robinson
+  last_updated_on: 2016-11-25 22:11:34.000000000 Z
+- name: grunt-contrib-concat
+  description: Concatenate files
+  package_url: https://www.npmjs.com/grunt-contrib-concat
+  version: 1.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16075/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/static/bower_components/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: src/main/resources/static/bower_components/bootstrap/package.json
+  last_updated_by: Mark Robinson
+  last_updated_on: 2016-11-25 22:11:34.000000000 Z
+- name: grunt-contrib-connect
+  description: Start a connect web server
+  package_url: https://www.npmjs.com/grunt-contrib-connect
+  version: 1.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16236/default_380ae3d73e22c7ca1f42b96479bcd0095dabc0d3.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/static/bower_components/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: src/main/resources/static/bower_components/bootstrap/package.json
+  last_updated_by: Mark Robinson
+  last_updated_on: 2016-11-25 22:11:34.000000000 Z
+- name: grunt-contrib-copy
+  description: Copy files and folders
+  package_url: https://www.npmjs.com/grunt-contrib-copy
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16056/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/static/bower_components/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: src/main/resources/static/bower_components/bootstrap/package.json
+  last_updated_by: Mark Robinson
+  last_updated_on: 2016-11-25 22:11:34.000000000 Z
+- name: grunt-contrib-csslint
+  description: Lint CSS files
+  package_url: https://www.npmjs.com/grunt-contrib-csslint
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17982/default_4fd967542aef030b38a14a6ad69d2f385c52808d.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/static/bower_components/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: src/main/resources/static/bower_components/bootstrap/package.json
+  last_updated_by: Mark Robinson
+  last_updated_on: 2016-11-25 22:11:34.000000000 Z
+- name: grunt-contrib-cssmin
+  description: Minify CSS
+  package_url: https://www.npmjs.com/grunt-contrib-cssmin
+  version: 1.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16324/default_b5c8f3c8e46d368f74a982d06d7f13291fe651ea.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/static/bower_components/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: src/main/resources/static/bower_components/bootstrap/package.json
+  last_updated_by: Mark Robinson
+  last_updated_on: 2016-11-25 22:11:34.000000000 Z
+- name: grunt-contrib-htmlmin
+  description: Minify HTML
+  package_url: https://www.npmjs.com/grunt-contrib-htmlmin
+  version: 1.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17474/default_e5adc22c59a44962e41dfaec51edeb42c083f2f4.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/static/bower_components/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: src/main/resources/static/bower_components/bootstrap/package.json
+  last_updated_by: Mark Robinson
+  last_updated_on: 2016-11-25 22:11:34.000000000 Z
+- name: grunt-contrib-jshint
+  description: Validate files with JSHint
+  package_url: https://www.npmjs.com/grunt-contrib-jshint
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15898/default_59a1b5716eefa3750c20936c3d53ff13a6390ee1.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/static/bower_components/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: src/main/resources/static/bower_components/bootstrap/package.json
+  last_updated_by: Mark Robinson
+  last_updated_on: 2016-11-25 22:11:34.000000000 Z
+- name: grunt-contrib-less
+  description: Compile LESS files to CSS
+  package_url: https://www.npmjs.com/grunt-contrib-less
+  version: 1.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16581/default_536789d2630ed352dc721a1c915ab456b7660201.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/static/bower_components/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: src/main/resources/static/bower_components/bootstrap/package.json
+  last_updated_by: Mark Robinson
+  last_updated_on: 2016-11-25 22:11:34.000000000 Z
+- name: grunt-contrib-qunit
+  description: Run QUnit unit tests in a headless Chrome instance
+  package_url: https://www.npmjs.com/grunt-contrib-qunit
+  version: 0.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16756/default_6e51a44775c61dcb2888547ad406a2f0cf2c344e.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/static/bower_components/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: src/main/resources/static/bower_components/bootstrap/package.json
+  last_updated_by: Mark Robinson
+  last_updated_on: 2016-11-25 22:11:34.000000000 Z
+- name: grunt-contrib-uglify
+  description: Minify JavaScript files with UglifyJS
+  package_url: https://www.npmjs.com/grunt-contrib-uglify
+  version: 1.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15954/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/static/bower_components/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: src/main/resources/static/bower_components/bootstrap/package.json
+  last_updated_by: Mark Robinson
+  last_updated_on: 2016-11-25 22:11:34.000000000 Z
+- name: grunt-contrib-watch
+  description: Run predefined tasks whenever watched file patterns are added
+  package_url: https://www.npmjs.com/grunt-contrib-watch
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15932/default_4dc9671df0093fd7061f6455afdf054e6cc9dacb.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/static/bower_components/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: src/main/resources/static/bower_components/bootstrap/package.json
+  last_updated_by: Mark Robinson
+  last_updated_on: 2016-11-25 22:11:34.000000000 Z
+- name: grunt-exec
+  description: Grunt task for executing shell commands
+  package_url: https://www.npmjs.com/grunt-exec
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16754/default_6dc099b12d47e378ae121fb53c336fe5d8f0ffc8.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/static/bower_components/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: src/main/resources/static/bower_components/bootstrap/package.json
+  last_updated_by: Mark Robinson
+  last_updated_on: 2016-11-25 22:11:34.000000000 Z
+- name: grunt-jscs
+  description: Grunt task for checking JavaScript Code Style with jscs
+  package_url: https://www.npmjs.com/grunt-jscs
+  version: 3.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16510/default_4e3259350c525d1d859fa80a938000081d7c9db8.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/static/bower_components/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: src/main/resources/static/bower_components/bootstrap/package.json
+  last_updated_by: Mark Robinson
+  last_updated_on: 2016-11-25 22:11:34.000000000 Z
+- name: grunt-saucelabs
+  description: Grunt task running tests using Sauce Labs
+  package_url: https://www.npmjs.com/grunt-saucelabs
+  version: 9.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17562/default_3c6aa8b4297562bfc2a090966a5bc0fad1d0b678.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/static/bower_components/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: src/main/resources/static/bower_components/bootstrap/package.json
+  last_updated_by: Mark Robinson
+  last_updated_on: 2016-11-25 22:11:34.000000000 Z
+- name: gulp-concat
+  description: Concatenates files
+  package_url: https://www.npmjs.com/gulp-concat
+  version: 2.4.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15973/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/static/bower_components/svg-pan-zoom/package.json
+  detection_source: src/main/resources/static/bower_components/svg-pan-zoom/package.json
+  last_updated_by: Mark Robinson
+  last_updated_on: 2017-02-01 23:31:06.000000000 Z
+- name: gulp-header
+  description: Gulp extension to add header to file
+  package_url: https://www.npmjs.com/gulp-header
+  version: 1.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16259/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/static/bower_components/svg-pan-zoom/package.json
+  detection_source: src/main/resources/static/bower_components/svg-pan-zoom/package.json
+  last_updated_by: Mark Robinson
+  last_updated_on: 2017-02-01 23:31:06.000000000 Z
+- name: gulp-jscs
+  description: Check JavaScript code style with jscs
+  package_url: https://www.npmjs.com/gulp-jscs
+  version: 1.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16515/default_0a704f5fac0bffcf529c9a61658d0b9ddbf7504e.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/static/bower_components/svg-pan-zoom/package.json
+  detection_source: src/main/resources/static/bower_components/svg-pan-zoom/package.json
+  last_updated_by: Mark Robinson
+  last_updated_on: 2017-02-01 23:31:06.000000000 Z
+- name: gulp-jshint
+  description: JSHint plugin for gulp
+  package_url: https://www.npmjs.com/gulp-jshint
+  version: 1.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16050/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/static/bower_components/svg-pan-zoom/package.json
+  detection_source: src/main/resources/static/bower_components/svg-pan-zoom/package.json
+  last_updated_by: Mark Robinson
+  last_updated_on: 2017-02-01 23:31:06.000000000 Z
+- name: gulp-plumber
+  description: Prevent pipe breaking caused by errors from gulp plugins
+  package_url: https://www.npmjs.com/gulp-plumber
+  version: 0.6.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16033/default_72d4237e6719b7d75d0307bf8b5718584fdc3425.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/static/bower_components/svg-pan-zoom/package.json
+  detection_source: src/main/resources/static/bower_components/svg-pan-zoom/package.json
+  last_updated_by: Mark Robinson
+  last_updated_on: 2017-02-01 23:31:06.000000000 Z
+- name: gulp-rename
+  description: Rename files
+  package_url: https://www.npmjs.com/gulp-rename
+  version: 1.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15895/default_e4668902f8489350db9b0fb228523a571ef05b26.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/static/bower_components/svg-pan-zoom/package.json
+  detection_source: src/main/resources/static/bower_components/svg-pan-zoom/package.json
+  last_updated_by: Mark Robinson
+  last_updated_on: 2017-02-01 23:31:06.000000000 Z
+- name: gulp-uglify
+  description: Minify files with UglifyJS
+  package_url: https://www.npmjs.com/gulp-uglify
+  version: 1.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15910/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/static/bower_components/svg-pan-zoom/package.json
+  detection_source: src/main/resources/static/bower_components/svg-pan-zoom/package.json
+  last_updated_by: Mark Robinson
+  last_updated_on: 2017-02-01 23:31:06.000000000 Z
+- name: gulp-watch
+  description: Watch, that actually is an endless stream
+  package_url: https://www.npmjs.com/gulp-watch
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16175/default_351a89f21bfb241e8dabeb1444cf56f529948708.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/static/bower_components/svg-pan-zoom/package.json
+  detection_source: src/main/resources/static/bower_components/svg-pan-zoom/package.json
+  last_updated_by: Mark Robinson
+  last_updated_on: 2017-02-01 23:31:06.000000000 Z
+- name: load-grunt-tasks
+  description: Load multiple grunt tasks using globbing patterns
+  package_url: https://www.npmjs.com/load-grunt-tasks
+  version: 3.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16062/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/static/bower_components/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: src/main/resources/static/bower_components/bootstrap/package.json
+  last_updated_by: Mark Robinson
+  last_updated_on: 2016-11-25 22:11:34.000000000 Z
+- name: markdown-it
+  description: Markdown-it - modern pluggable markdown parser
+  package_url: https://www.npmjs.com/markdown-it
+  version: 7.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16277/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/static/bower_components/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: src/main/resources/static/bower_components/bootstrap/package.json
+  last_updated_by: Mark Robinson
+  last_updated_on: 2016-11-25 22:11:34.000000000 Z
+  vulnerabilities:
+  - name: Uncontrolled Resource Consumption in markdown-it
+    cve_id: CVE-2022-21670
+    cve_url: https://github.com/advisories/GHSA-6vfc-qv3f-vr6c
+    detected_date: Jan 13
+    severity: moderate
+    first_patched: 12.3.2
+- name: shelljs
+  description: Portable Unix shell commands for Node.js
+  package_url: https://www.npmjs.com/shelljs
+  version: 0.3.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15897/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/static/bower_components/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: src/main/resources/static/bower_components/bootstrap/package.json
+  last_updated_by: Mark Robinson
+  last_updated_on: 2016-11-25 22:11:34.000000000 Z
+  vulnerabilities:
+  - name: Improper Privilege Management in shelljs
+    cve_id: CVE-2022-0144
+    cve_url: https://github.com/advisories/GHSA-4rq4-32rv-6wp6
+    detected_date: Jan 22
+    severity: high
+    first_patched: 0.8.5
+  - name: Improper Privilege Management in shelljs
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-64g7-mvw6-v9qj
+    detected_date: Jan 15
+    severity: moderate
+    first_patched: 0.8.5
+- name: shx
+  description: Portable Shell Commands for Node
+  package_url: https://www.npmjs.com/shx
+  version: 0.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16496/default_55f3303d620c93eecbee69c43373d484f2be492f.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/static/bower_components/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: src/main/resources/static/bower_components/bootstrap/package.json
+  last_updated_by: Mark Robinson
+  last_updated_on: 2016-11-25 22:11:34.000000000 Z
+- name: time-grunt
+  description: Display the elapsed execution time of grunt tasks
+  package_url: https://www.npmjs.com/time-grunt
+  version: 1.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16275/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/static/bower_components/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: src/main/resources/static/bower_components/bootstrap/package.json
+  last_updated_by: Mark Robinson
+  last_updated_on: 2016-11-25 22:11:34.000000000 Z
+- name: vinyl-buffer
+  description: Convert streaming vinyl files to use buffers
+  package_url: https://www.npmjs.com/vinyl-buffer
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16203/default_9a7a7dcd69c12c746dc4000dc4d1b75758079c9f.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/static/bower_components/svg-pan-zoom/package.json
+  detection_source: src/main/resources/static/bower_components/svg-pan-zoom/package.json
+  last_updated_by: Mark Robinson
+  last_updated_on: 2017-02-01 23:31:06.000000000 Z
+- name: vinyl-source-stream
+  description: Use conventional text streams at the start of your gulp or vinyl pipelines
+  package_url: https://www.npmjs.com/vinyl-source-stream
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16081/default_8725384794b44fe56f31da1d21ae759cf07be7a5.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/static/bower_components/svg-pan-zoom/package.json
+  detection_source: src/main/resources/static/bower_components/svg-pan-zoom/package.json
+  last_updated_by: Mark Robinson
+  last_updated_on: 2017-02-01 23:31:06.000000000 Z
+- name: com.fasterxml.jackson.core:jackson-core
+  description: Core Jackson processing abstractions
+  version: 2.15.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/pom.xml
+  detection_source: pom.xml
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-05-17 02:56:51.000000000 Z
+- name: com.github.jsonld-java:jsonld-java
+  description: Json-LD core implementation
+  version: 0.13.4
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Iacopo Colonnelli
+  last_updated_on: 2023-01-03 13:02:13.000000000 Z
+- name: commons-io:commons-io
+  description: The Apache Commons IO library contains utility classes
+  version: 2.12.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Bruno P. Kinoshita
+  last_updated_on: 2022-06-21 02:54:07.000000000 Z
+- name: org.apache.commons:commons-compress
+  description: Apache Commons Compress software defines an API for working with compression
+    and archive formats
+  version: 1.23.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Michael R. Crusoe
+  last_updated_on: 2022-09-23 13:43:01.000000000 Z
+  vulnerabilities:
+  - name: Apache Commons Compress denial of service vulnerability
+    cve_id: CVE-2023-42503
+    cve_url: https://github.com/advisories/GHSA-cgwf-w82q-5jrr
+    detected_date: Sep 15
+    severity: moderate
+    first_patched: 1.24.0
+- name: org.apache.jena:jena-core
+  description: Jena is a Java framework for building Semantic Web applications
+  version: 4.8.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/pom.xml
+  detection_source: pom.xml
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-04-24 13:42:27.000000000 Z
+- name: org.eclipse.jgit:org.eclipse.jgit
+  description: Repository access and algorithms
+  version: 6.1.0
+  license: AAL
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Michael R. Crusoe
+  last_updated_on: 2022-09-23 13:43:01.000000000 Z
+  vulnerabilities:
+  - name: 'Arbitrary File Overwrite in Eclipse JGit '
+    cve_id: CVE-2023-4759
+    cve_url: https://github.com/advisories/GHSA-3p86-9955-h393
+    detected_date: Sep 19
+    severity: high
+    first_patched: 6.6.1.202309021850-r
+- name: org.liquibase:liquibase-core
+  description: Liquibase is a tool for managing and executing database changes
+  version: 4.22.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Iacopo Colonnelli
+  last_updated_on: 2023-01-03 13:02:13.000000000 Z
+- name: org.mockito:mockito-inline
+  description: Mockito preconfigured inline mock maker
+  version: 5.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Michael R. Crusoe
+  last_updated_on: 2022-09-23 13:43:01.000000000 Z
+- name: org.postgresql:postgresql
+  description: The PostgreSQL Driver JDBC4
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Michael R. Crusoe
+  last_updated_on: 2022-09-23 13:43:01.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-data-jpa
+  description: Starter for using Spring Data JPA with Hibernate
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Michael R. Crusoe
+  last_updated_on: 2022-09-23 13:43:01.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-test
+  description: Starter for testing Spring Boot applications with libraries including
+    JUnit
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Michael R. Crusoe
+  last_updated_on: 2022-09-23 13:43:01.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-thymeleaf
+  description: Starter for building MVC web applications using Thymeleaf views
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Michael R. Crusoe
+  last_updated_on: 2022-09-23 13:43:01.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-validation
+  description: Starter for using Java Bean Validation with Hibernate Validator
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Michael R. Crusoe
+  last_updated_on: 2022-09-23 13:43:01.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-web
+  description: Starter for building web, including RESTful, applications using Spring
+    MVC
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Michael R. Crusoe
+  last_updated_on: 2022-09-23 13:43:01.000000000 Z
+- name: org.springframework.data:spring-data-commons
+  description: Global parent pom.xml to be used by Spring Data modules
+  version: 2.7.12
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Michael R. Crusoe
+  last_updated_on: 2022-09-23 13:43:01.000000000 Z
+- name: org.testcontainers:postgresql
+  description: Testcontainers is a Java library that supports JUnit tests
+  version: 1.18.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Michael R. Crusoe
+  last_updated_on: 2022-09-23 13:43:01.000000000 Z
+- name: jupyterlab
+  description: The JupyterLab notebook server extension
+  package_url: https://pypi.org/project/jupyterlab
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20376/default_e6c4d6b6295b7d6934a5e16b2a16a7aa07991d65.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/docs/mongo-to-postgres/requirements.txt
+  detection_source: docs/mongo-to-postgres/requirements.txt
+  last_updated_by: Bruno P. Kinoshita
+  last_updated_on: 2022-03-30 08:19:44.000000000 Z
+- name: pandas
+  description: Powerful data structures for data analysis
+  package_url: https://pypi.org/project/pandas
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19837/default_85689b353a3a9409328e253ea28d859d29151e0c.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/docs/mongo-to-postgres/requirements.txt
+  detection_source: docs/mongo-to-postgres/requirements.txt
+  last_updated_by: Bruno P. Kinoshita
+  last_updated_on: 2022-03-30 08:19:44.000000000 Z
+- name: requests
+  description: Python HTTP for Humans
+  package_url: https://pypi.org/project/requests
+  version: '2.27'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19826/default_d7c684bf2673f008a9f02ac93901229297a22d7e.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/docs/mongo-to-postgres/requirements.txt
+  detection_source: docs/mongo-to-postgres/requirements.txt
+  last_updated_by: Bruno P. Kinoshita
+  last_updated_on: 2022-04-01 21:23:35.000000000 Z
+  vulnerabilities:
+  - name: Unintended leak of Proxy-Authorization header in requests
+    cve_id: CVE-2023-32681
+    cve_url: https://github.com/advisories/GHSA-j8r2-6x86-q33q
+    detected_date: May 23
+    severity: moderate
+    first_patched: 2.31.0
+- name: jekyll-sitemap
+  description: Automatically generate a sitemap.xml for your Jekyll site
+  package_url: https://rubygems.org/jekyll-sitemap
+  version: 0.12.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19321/default_31ccb7684f50eae9f0c40cb9965cc32299f8935e.png
+  detection_source_url: https://github.com/kclhi/cwlviewer/blob/master/src/main/resources/static/bower_components/bootstrap/Gemfile.lock
+  detection_source: src/main/resources/static/bower_components/bootstrap/Gemfile
+  last_updated_by: Snyk bot
+  last_updated_on: 2021-07-09 11:09:06.000000000 Z
